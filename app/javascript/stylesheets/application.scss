@@ -1,0 +1,6 @@
+// Bootstrapの導入方法、app/javascriptの配下にstylesheetsフォルダを作成　2
+// つぎに、下のコードを追記　3
+@import '~bootstrap/scss/bootstrap';
+
+// FontAwesomeの導入  2
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
